@@ -1,6 +1,8 @@
 db8sitelastmodified
 ===================
 
+MALAYSIA - MALAY MULTILANGUAGE SUPPORT ADDED
+
 db8 Site Last Modified
 This Module displays the last site modification date, based on the article (create/modified) dates in your site. Note that it does not display any other changes, e.g. in Category or Modules.
 
